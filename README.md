@@ -1,2 +1,3 @@
-# TP_AySO
-Primer trabajo practico de la materia DIV-315
+Alumno: Fernando 
+Division: 315
+Turno: Noche
