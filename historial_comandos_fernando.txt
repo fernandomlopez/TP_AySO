@@ -29,22 +29,10 @@ whoami
 echo "Usuario=$(whoami)"> datos_usuario.txt
 git add .
 git config --global user.email "lopez.fernandomartin98@gmail.com"
-```bash
-  * En Python (al usar slicing): `a[::-1]` da vuelta una lista.
 cd TP_AySO
 git add .
 history 
 history
-for i in {32..57}; do history -d $i; done
-history -w
-history
-for i in {32..44}; do history -d $i; done
-history
-for i in {32..37}; do history -d $i; done
-history
-history -d 34
-history /w
-history -w
 $HOME/.bash_history
 ls -l ~/.bash_history
 chmod 600 ~/.bash_history
